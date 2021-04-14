@@ -1,5 +1,15 @@
 # Quill
 
+### Fast local install
+```
+git clone https://github.com/llevkin/quill
+cd quill
+docker-compose up
+```
+- After docker starts, app will be available on localhost:3000 (by default)
+- default login: admin@example.com
+- default password: party
+
 ## *Registration, for hackers!*
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
